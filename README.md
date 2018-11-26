@@ -12,3 +12,11 @@ Explore intriguing Physical Constants ratios between microphysics and cosmology
 
 [![DOI](https://zenodo.org/badge/158677063.svg)](https://zenodo.org/badge/latestdoi/158677063)
 
+License
+The 'Jupyter-Notebook-Practice-Physical-Constants-Ratios' package is licensed under the MIT "Expat" License. The original author(s) are:
+* LaGuer.
+* Dr Francis Michel Sanchez
+* Denis Gayral
+
+Please, cite the paper LaGuer 2018 (http://vixra.org/pdf/1811.0146v8.pdf) if you employ this package in your research work.
+
