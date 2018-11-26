@@ -4,7 +4,7 @@ Jupyter-Notebook Practice Physical Constants Ratios
 
 Explore intriguing Physical Constants ratios between microphysics and cosmology
 
-[Jupyter-Notebook-Practice-Physical-Constants-Ratios Github.io](https://LaGuer.github.io/Jupyter-Notebook-Practice-Physical-Constants-Ratios)
+[Jupyter-Notebook-Practice-Physical-Constants-Ratios Github.io](https://laguer.github.io/Jupyter-Notebook-Practice-Physical-Constants-Ratios/blob/master/Jupyter-Notebook%20Practice%20Physical%20Constants%20Ratios.ipynb)
 
 [Jupyter-Notebook-Practice-Physical-Constants-Ratios Github.com](https://github.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratios)
 
