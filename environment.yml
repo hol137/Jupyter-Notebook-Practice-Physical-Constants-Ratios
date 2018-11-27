@@ -122,8 +122,6 @@ dependencies:
 - mccabe=0.6.1=py36h5ad9710_1
 - memory_profiler=0.47=py36hfa32046_0
 - mistune=0.7.4=py36hbab8784_0
-- mkl=2018.0.0=hb491cac_4
-- mkl-service=1.1.2=py36h17a0993_4
 - mpc=1.0.3=hf803216_4
 - mpfr=3.1.5=h12ff648_1
 - mpmath=0.19=py36h8cc018b_2
