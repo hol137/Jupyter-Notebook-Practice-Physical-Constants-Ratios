@@ -24,7 +24,7 @@ With [Binder](https://mybinder.org/), you can run most of the Jupyter notebooks 
 
 ```bash
 $ git clone https://github.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratio.git
-$ cd cookbook-2nd-code
+$ cd Jupyter-Notebook-Practice-Physical-Constants-Ratio
 ```
 
 5. **Create** the `cookbook` [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file):
@@ -38,13 +38,13 @@ conda env create -f environment.yml
     * On macOS and Linux:
 
     ```bash
-    source activate cookbook
+    source activate physicalconstantsratios
     ```
 
     * On Windows:
 
     ```bash
-    activate cookbook
+    activate physicalconstantsratios
     ```
 
 7. **Launch** the [Jupyter Notebook](http://jupyter.org/install.html):
