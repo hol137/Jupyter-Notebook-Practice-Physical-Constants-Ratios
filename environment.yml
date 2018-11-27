@@ -1,6 +1,5 @@
 name: physicalconstantsratios
-channels:
-- defaults
+
 dependencies:
 - geos=3.6.2=1
 - giflib=5.1.4=0
