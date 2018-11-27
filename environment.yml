@@ -66,7 +66,6 @@ dependencies:
 - colorama=0.3.9=py36h489cec4_0
 - contextlib2=0.5.5=py36h6c84a62_0
 - cryptography=2.0.3=py36ha225213_1
-- cudatoolkit=8.0=3
 - curl=7.55.1=hcb0b314_2
 - cycler=0.10.0=py36h93f1223_0
 - cython=0.26.1=py36h21c49d0_0
