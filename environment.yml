@@ -17,9 +17,7 @@ dependencies:
 - joblib=0.11=py36_0
 - json-c=0.12.1=0
 - kealib=1.4.7=4
-- libdap4=3.19.2=1
 - libgpuarray=0.7.5=0
-- libiconv=1.15=0
 - libnetcdf=4.4.1.1=10
 - mako=1.0.7=py36_0
 - owslib=0.15.0=py_0
