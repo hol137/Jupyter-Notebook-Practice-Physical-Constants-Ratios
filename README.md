@@ -1,4 +1,58 @@
-# Jupyter-Notebook-Practice-Physical-Constants-Ratios
+# Code of the Jupyter-Notebook-Practice-Physical-Constants-Ratios (2018)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratios/master)
+
+This repository contains the Jupyter notebooks of the intriguing physical constants ratios that are at play in micro-physics and cosmology of [*Jupyter-Notebook-Practice-Physical-Constants-Ratios(2018)*](https://www.packtpub.com/big-data-and-business-intelligence/-first-e/ https://zenodo.org/badge/latestdoi/158677063), by LaGuer/F.M.Sanchez/D.G, *Packt Publishing*.
+
+This repository is read-only: the source files are on the [Jupyter-Notebook-Practice-Physical-Constants-Ratios](https://github.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratios) repository.
+
+
+## Running the code in the cloud
+
+With [Binder](https://mybinder.org/), you can run most of the Jupyter notebooks directly from your web browser without installing anything. Just click on the `launch binder` button above. A temporary Jupyter Notebook server with all dependencies will be automatically launched in the cloud. It is not persistent: all your changes will be lost after some time.
+
+
+## Running the code on your computer
+
+1. [**Install** git](https://git-scm.com/downloads).
+
+2. [**Download and install** Anaconda](https://www.anaconda.com/download/): choose the **Python 3.6, 64-bit** version for your operating system (macOS, Linux, or Windows).
+
+3. **Open** a terminal (`cmd` on Windows).
+
+4. **Clone** the repository:
+
+```bash
+$ git clone https://github.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constants-Ratio.git
+$ cd cookbook-2nd-code
+```
+
+5. **Create** the `cookbook` [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file):
+
+```bash
+conda env create -f environment.yml
+```
+
+6. **Activate** the environment:
+
+    * On macOS and Linux:
+
+    ```bash
+    source activate cookbook
+    ```
+
+    * On Windows:
+
+    ```bash
+    activate cookbook
+    ```
+
+7. **Launch** the [Jupyter Notebook](http://jupyter.org/install.html):
+
+```bash
+$ jupyter notebook
+```
+## Jupyter-Notebook-Practice-Physical-Constants-Ratios
 
 Jupyter-Notebook Practice Physical Constants Ratios
 
