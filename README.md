@@ -27,7 +27,7 @@ $ git clone https://github.com/LaGuer/Jupyter-Notebook-Practice-Physical-Constan
 $ cd Jupyter-Notebook-Practice-Physical-Constants-Ratio
 ```
 
-5. **Create** the `cookbook` [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file):
+5. **Create** the `physicalconstantsratios` [conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file):
 
 ```bash
 conda env create -f environment.yml
